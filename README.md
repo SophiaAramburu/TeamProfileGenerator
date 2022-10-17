@@ -14,3 +14,4 @@ After you are done building your team, go to ``` /dist ``` folder and open the `
 
 ## How to use video
 
+![demopicture](/assets/Capture.PNG "demo")
